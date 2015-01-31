@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Skeleton WordPress Theme
 
 ##About
@@ -204,3 +205,8 @@ You can find a list of these functions in the top of the functions.php file:
 * __st_before_footer__ // Opening footer wrapper
 * __st_footer__ // The footer (includes sidebar-footer.php)
 * __st_after_footer__ // The closing footer wrapper
+=======
+## ericcavazos.com
+
+My personal website and blog for posting about tech company strategy, design, and code. Hopefully you will find pieces of cake among all the batter.
+>>>>>>> 765d1af74ec9114d63c2a0c6d1fd85fa0da11d52

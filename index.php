@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE>
 <html>
 	<head>
@@ -30,3 +31,22 @@
 	</article>
 	</body>
 </html>
+=======
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
+
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+>>>>>>> 765d1af74ec9114d63c2a0c6d1fd85fa0da11d52
