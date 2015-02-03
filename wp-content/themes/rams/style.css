@@ -102,7 +102,7 @@ body a {
 }
 
 body a:hover {
-	color: #6AA897;
+	color: #69ACDB;
 	text-decoration: none;
 }
 
@@ -191,6 +191,7 @@ body a {
 	top: 0;
 	left: 0;
 	bottom: 0;
+	border-right: 5px solid #69ACDB;
 }
 
 .wrapper { margin: 6% 0 6% 300px; }
@@ -207,7 +208,7 @@ body a {
 
 .bg-light { background: #fafafa; }
 .bg-dark { background: #444; }
-.bg-mint { background: #6AA897; }
+.bg-mint { background: #1F1F1F; }
 
 
 /* Gridiriffic --------------------------------------- */
